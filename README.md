@@ -2,7 +2,7 @@
 
 It's Gabriel. I'm currently studying to become a Web Developer.
 
-- tech degree in systems analysis and development
+- graduated with technologist degree in systems analysis and development from FATEC
 - love: family and friends !important
 - fav things: music, food, games and beer
 
