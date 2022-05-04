@@ -1,6 +1,6 @@
 ### Hello <img src="https://emojis.slackmojis.com/emojis/images/1643514476/4594/blob-wave.gif?1643514476" width="30px" heigth="30px" />
 
-It's Gabriel. I'm currently studying to become a Web Developer.
+It's Gabriel here. I'm currently studying to become a Web Developer.
 
 - graduated with technologist degree in systems analysis and development from FATEC
 - love: family and friends !important
