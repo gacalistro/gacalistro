@@ -1,4 +1,4 @@
-### Hello <img src="https://emojis.slackmojis.com/emojis/images/1643514476/4594/blob-wave.gif?1643514476" width="30px" heigth="30px" />
+### Hello <img src="https://emojis.slackmojis.com/emojis/images/1643514693/6951/blob_wavereverse.png?1643514693" width="30px" heigth="30px" />
 
 It's Gabriel here. I'm currently studying to become a Web Developer.
 
@@ -18,7 +18,7 @@ It's Gabriel here. I'm currently studying to become a Web Developer.
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </a>
 
-### <img src="https://emojis.slackmojis.com/emojis/images/1643514443/4246/blob-sunglasses.gif?1643514443" width="22px" heigth="22px" /> Where to find me
+### <img src="https://emojis.slackmojis.com/emojis/images/1643514690/6925/blob_sunglasses.png?1643514690" width="22px" heigth="22px" /> Where to find me
 
 <a href="https://www.linkedin.com/in/gahcalistro/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
@@ -32,7 +32,7 @@ It's Gabriel here. I'm currently studying to become a Web Developer.
 
 <hr/>
 
-### <img src="https://emojis.slackmojis.com/emojis/images/1651341665/58526/glitch_blob.gif?1651341665" width="22px" heigth="22px" /> Github Stats
+### <img src="https://emojis.slackmojis.com/emojis/images/1643514691/6931/blob_thinking_down.png?1643514691" width="22px" heigth="22px" /> Github Stats
 
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gahcalistro&show_icons=true&theme=github_dark&include_all_commits=false&count_private=true&hide=contribs,issues&custom_title=My stats" />
 <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gahcalistro&layout=compact&langs_count=7&theme=github_dark"/>
