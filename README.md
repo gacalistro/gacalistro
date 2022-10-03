@@ -34,5 +34,5 @@ It's Gabriel here. I'm currently studying to become a Web Developer.
 
 ### <img src="https://emojis.slackmojis.com/emojis/images/1643514572/5715/thinking-blob.gif?1643514572" width="22" heigth="22" /> Github Stats
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=gahcalistro&show_icons=true&theme=github_dark&include_all_commits=false&count_private=true&hide=contribs,issues&custom_title=My stats" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=gahcalistro&show_icons=true&theme=github_dark&include_all_commits=false&count_private=true&hide=contribs,issues&custom_title=Stats" />
 <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gahcalistro&layout=compact&langs_count=7&theme=github_dark"/>
