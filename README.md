@@ -23,4 +23,4 @@ It's Gabriel here. I'm currently studying Front-end.
 ### <img src="https://emojis.slackmojis.com/emojis/images/1643514812/8272/blob-cool.gif?1643514812" width="22" heigth="22" /> Where to find me
 
 - [Linkedin](https://www.linkedin.com/in/gahcalistro/)
-- [Email](mailto:gahcalistro@gmail.com)
+- [Email](mailto:gacalistro@gmail.com)
