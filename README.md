@@ -1,6 +1,6 @@
 ### Hello <img src="https://emojis.slackmojis.com/emojis/images/1643514476/4594/blob-wave.gif?1643514476" width="30" heigth="30" />
 
-It's Gabriel here. I'm currently studying Front-end.
+It's Gabriel here. I'm a Software Developer.
 
 - graduated with technologist degree in systems analysis and development from FATEC
 - love: family and friends !important
@@ -10,15 +10,20 @@ It's Gabriel here. I'm currently studying Front-end.
 
 - HTML
 - CSS
-- JS
+- JavaScript
+- Typescript
 - Node.js
 - Express
 - Fastify
 - SQLite
-- Typescript
+- MongoDB
+- PostegreSQL
+- Prisma
 - React
-- React Native
+- Next.js
 - Tailwind CSS
+- React Native
+- Expo
 
 ### <img src="https://emojis.slackmojis.com/emojis/images/1643514812/8272/blob-cool.gif?1643514812" width="22" heigth="22" /> Where to find me
 
