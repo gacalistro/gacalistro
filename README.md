@@ -17,7 +17,7 @@ It's Gabriel here. I'm a Software Developer.
 - Fastify
 - SQLite
 - MongoDB
-- PostegreSQL
+- PostgreSQL
 - Prisma
 - React
 - Next.js
