@@ -9,9 +9,9 @@ It's Gabriel here. I'm a Software Developer.
 
 ### <img src="https://emojis.slackmojis.com/emojis/images/1643514684/6862/blob_hero.png?1643514684" width="22px" heigth="22px" /> Experience
 
-I have experience in Typescript, Node.js, React and React Native. I'm getting into TDD, Design Patterns and SOLID.
+I have experience in Typescript, Node.js, React and React Native. I am also actively expanding my knowledge in TDD, Design Patterns and SOLID principles.
 
-My professional goal is to collaborate on creating efficient, scalable, and easy-to-use solutions that solve real-world problems.
+My professional objective is to contribute to the creation of efficient, scalable, and user-friendly solutions that effectively address real-world problems. 
 
 ### <img src="https://emojis.slackmojis.com/emojis/images/1643514812/8272/blob-cool.gif?1643514812" width="22" heigth="22" /> Where to find me
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gahcalistro)](https://www.linkedin.com/in/gahcalistro/)
