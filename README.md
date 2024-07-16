@@ -1,6 +1,6 @@
 ### Hi <img src="https://emojis.slackmojis.com/emojis/images/1643514476/4594/blob-wave.gif?1643514476" width="30" heigth="30" />
 
-It's Gabriel here. I'm a Software Developer and Instructor at SenaiSP.
+It's Gabriel here. I'm a Software Developer.
 
 - love: family and friends
 - fav things: music, food and games
